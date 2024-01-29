@@ -1,7 +1,7 @@
 <h1>Solución de problemas con expansión de árboles / Comesolo de 15 posiciones</h1>
 
 <h2>Instrucciones:</h2>
-<p></p>Para poder usar el programa, solamente debe de ejecutar el programa ya sea desde Spyder, Visual Studio Code o cualquier entorno de Python. La profundidad en la cual buscará estará por defecto en 25, si desea incrementarla o disminuirla solo debe cambiar el valor de la línea 164:</p>
+<p></p>Para poder usar el programa, solamente debe de ejecutar el programa ya sea desde Spyder, Visual Studio Code o cualquier entorno de Python. La profundidad en la cual buscará estará por defecto en 25, si desea incrementarla o disminuirla solo debe cambiar el valor de la línea 164 (sí se coloca un nivel muy grande podría demorarse mucho tiempo en finalizar la ejecución y causar problemas de rendimiento):</p>
 <code>g = a.gentree(final, 25)</code>
 <p>Una vez ejecutado el programa, en la terminal o consola se mostrará el siguiente mensaje:</p>
 <pre>
